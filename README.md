@@ -1,5 +1,3 @@
-<!-- Made with Love - Personal GitHub Profile -->
-
 <div align="center" style="
   background: linear-gradient(135deg, #ffe6f2 0%, #f8d7da 50%, #f1c2c7 100%);
   padding: 50px 30px;
@@ -39,7 +37,7 @@ This space is my digital sketchbook — simple, feminine, and pink.
 
 </div>
 
-<!-- Your Personal GIF -->
+
 <div style="
   margin: 30px 0;
   padding: 15px;
