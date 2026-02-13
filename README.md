@@ -1,48 +1,50 @@
 <h1 align="center">
-  🌸 Sara | Backend Developer 🌸
+  ✨ Sara |Full Stack Developer ✨
 </h1>
 
-<h3 align="center">
-  Building Powerful Backends & Beautiful Interfaces
-</h3>
-
----
-
-## 🌷 About Me
-
-💻 Passionate Backend Developer  
-🎯 Focused on clean architecture & scalable REST APIs  
-🚀 Always learning, always building  
-🧠 Turning complex logic into elegant solutions  
-
----
-
-## 🧰 Tech Stack
-
-### 🔹 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb" />
+<p align="center">
+  Automating. Deploying. Building. Scaling.
 </p>
 
-### 🔹 Frontend
-<p>
+---
+
+## 🌷 About Me 
+🔹 Full Stack Developer  
+🔹 Backend with Node.js & Express  
+🔹 CI/CD lover  
+🔹 Clean architecture mindset  
+
+---
+
+## 🚀 Tech Stack
+
+### 🧠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🎨 Frontend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
 </p>
 
-### 🔹 Tools & Extras
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+### ⚙️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman,vscode" />
 </p>
 
 ---
 
-## 🧠 What I Do
+## 🌊 3D Contribution Snake (Animated)
 
-✨ Design RESTful APIs  
-✨ Build secure authentication systems  
-✨ Create responsive UI with React & Tailwind  
-✨ Connect Laravel with MongoDB & MySQL  
-✨ Optimize performance & database queries  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
@@ -50,45 +52,23 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🌌 3D Contribution Graph
+## ☁️ DevOps Focus
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- Advanced Laravel Architecture  
-- API Security & Authentication (JWT, Sanctum)  
-- React Performance Optimization  
-- Clean Code & Scalable Systems  
+• CI/CD Pipelines  
+• Docker Containerization  
+• REST API Deployment  
+• Environment Configuration  
+• Performance Optimization  
 
 ---
 
-## 💫 Philosophy
+## 💫 Vision
 
-> "Strong backend. Clean frontend. Elegant logic. Zero chaos."
-
----
-
-<p align="center">
-  ⭐ If you like clean code & powerful APIs, we already get along.
-</p>
-
-  color: #8b4b6b;
-  font-family: 'Georgia', serif;
-  opacity: 0.7;
-">
-Made with love
-</p>
-</div>
-
-</div>
+> Build scalable systems.
+> Automate everything.
+> Break nothing.
