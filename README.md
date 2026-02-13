@@ -1,82 +1,88 @@
-<div align="center" style="
-  background: linear-gradient(135deg, #ffe6f2 0%, #f8d7da 50%, #f1c2c7 100%);
-  padding: 50px 30px;
-  border-radius: 25px;
-  box-shadow: 0 15px 35px rgba(255, 182, 193, 0.2);
-  border: 2px solid rgba(255, 255, 255, 0.6);
-">
+<h1 align="center">
+  🌸 Sara | Backend Developer 🌸
+</h1>
 
-<h1 style="
-  font-family: 'Georgia', serif;
-  font-size: 2.8em;
-  font-weight: 400;
-  color: #8b4b6b;
-  margin-bottom: 25px;
-  letter-spacing: 1px;
-">Welcome to My Space</h1>
+<h3 align="center">
+  Building Powerful Backends & Beautiful Interfaces
+</h3>
 
-<div style="
-  background: rgba(255, 255, 255, 0.6);
-  padding: 35px;
-  border-radius: 20px;
-  margin: 25px 0;
-  box-shadow: 0 8px 25px rgba(255, 182, 193, 0.15);
-">
+---
 
-<p style="
-  font-size: 1.2em;
-  color: #6b4c5a;
-  line-height: 1.7;
-  font-family: 'Georgia', serif;
-  margin: 0;
-">
-Calm energy, soft design, and quiet creativity.<br>
-I love gentle colors, thoughtful code, and slow inspiration.<br>
-This space is my digital sketchbook — simple, feminine, and pink.
+## 🌷 About Me
+
+💻 Passionate Backend Developer  
+🎯 Focused on clean architecture & scalable REST APIs  
+🚀 Always learning, always building  
+🧠 Turning complex logic into elegant solutions  
+
+---
+
+## 🧰 Tech Stack
+
+### 🔹 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,mongodb" />
 </p>
 
-</div>
-
-
-<div style="
-  margin: 30px 0;
-  padding: 15px;
-  background: rgba(255, 255, 255, 0.4);
-  border-radius: 20px;
-  box-shadow: 0 8px 20px rgba(255, 182, 193, 0.2);
-">
-<img src="téléchargement.gif" width="400" alt="personal animation" style="border-radius: 15px;">
-</div>
-
-<!-- Simple Badges -->
-<div style="margin: 30px 0;">
-<img src="https://img.shields.io/badge/Pink%20Mood-ffb6c1?style=for-the-badge&labelColor=f7c6d9">
-<img src="https://img.shields.io/badge/Minimal%20Vibes-fdcfe8?style=for-the-badge&labelColor=ffb6c1">
-</div>
-
-<!-- Quote -->
-<div style="
-  background: rgba(255, 182, 193, 0.2);
-  padding: 25px;
-  border-radius: 15px;
-  margin: 30px 0;
-  border-left: 4px solid #dda0dd;
-">
-<p style="
-  font-style: italic;
-  font-size: 1.1em;
-  color: #8b4b6b;
-  font-family: 'Georgia', serif;
-  margin: 0;
-">
-"Simplicity is the ultimate form of elegance."
+### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" />
 </p>
-</div>
 
-<!-- Footer -->
-<div style="margin-top: 30px;">
-<p style="
-  font-size: 0.9em;
+### 🔹 Tools & Extras
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+</p>
+
+---
+
+## 🧠 What I Do
+
+✨ Design RESTful APIs  
+✨ Build secure authentication systems  
+✨ Create responsive UI with React & Tailwind  
+✨ Connect Laravel with MongoDB & MySQL  
+✨ Optimize performance & database queries  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌌 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Advanced Laravel Architecture  
+- API Security & Authentication (JWT, Sanctum)  
+- React Performance Optimization  
+- Clean Code & Scalable Systems  
+
+---
+
+## 💫 Philosophy
+
+> "Strong backend. Clean frontend. Elegant logic. Zero chaos."
+
+---
+
+<p align="center">
+  ⭐ If you like clean code & powerful APIs, we already get along.
+</p>
+
   color: #8b4b6b;
   font-family: 'Georgia', serif;
   opacity: 0.7;
