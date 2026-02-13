@@ -39,11 +39,11 @@
 </p>
 
 ---
-<div align="center">
+<!-- <div align="center">
 
-<!-- 🌸 3D Animated Garden -->
 
-<div align="center">
+
+ <div align="center">
 
 <svg width="100%" height="350" viewBox="0 0 800 350" xmlns="http://www.w3.org/2000/svg">
 
@@ -97,16 +97,16 @@
 
 </svg>
 
-</div>
+</div> -->
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahope7&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahope7&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p> -->
 
 ---
 
